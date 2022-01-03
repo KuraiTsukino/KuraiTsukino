@@ -24,11 +24,14 @@
   <img align="center" alt="Tsukino-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tsukino-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tsukino-Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-  <img align="right" alt="Tsukino-pic" height="250" style="border-radius:50px;" src="https://drive.google.com/file/d/12Z4clGO6fcg7D0jd3QdC7SzEqi9fJjUr/view?usp=sharing">
 </div>
   
 ## 
   
+<div>
+  <img align="right" alt="Tsukino-pic" height="250" style="border-radius:50px;" src="https://drive.google.com/file/d/12Z4clGO6fcg7D0jd3QdC7SzEqi9fJjUr/view?usp=sharing">
+</div>
+  ##
 <div> 
   <a href="https://www.linkedin.com/in/sandramena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/kurai_tsukino" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
