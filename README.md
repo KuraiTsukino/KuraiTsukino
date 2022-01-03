@@ -24,7 +24,7 @@
   <img align="center" alt="Tsukino-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tsukino-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tsukino-Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-  <img align="right" alt="Tsukino-pic" height="250" style="border-radius:50px;" src="https://instagram.fmex5-1.fna.fbcdn.net/v/t51.2885-15/e35/50128947_1595740097196117_2638386725086925028_n.jpg?_nc_ht=instagram.fmex5-1.fna.fbcdn.net&amp;_nc_cat=109&amp;_nc_ohc=CF5V3oKWC_MAX9s9Fdu&amp;edm=AABBvjUBAAAA&amp;ccb=7-4&amp;oh=00_AT8JixRoQT34uatTYNpXui08cbSrt_-SFVggHW4Q3sCwIg&amp;oe=61DA062B&amp;_nc_sid=83d603">
+  <img align="right" alt="Tsukino-pic" height="250" style="border-radius:50px;" src="https://drive.google.com/file/d/12Z4clGO6fcg7D0jd3QdC7SzEqi9fJjUr/view?usp=sharing">
 </div>
   
 ## 
