@@ -1,5 +1,10 @@
 # Hi there 😊 , I'm Sandra Mena aka Kurai Tsukino <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+![](https://komarev.com/ghpvc/?username=kuraitsukino&color=ff69b4)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kurai_tsukino?style=social)](https://twitter.com/kurai_tsukino)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCFnY0rmT4-LOA2x02wPtJYA?style=social)](https://www.youtube.com/kuraitsukino)
+[![GitHub followers](https://img.shields.io/github/followers/kuraitsukino?style=social)](https://github.com/kuraitsukino)
+
 - 🔭 I’m currently working on learning a lot of stuff to be an excelent web developer.
 - 🌱 I’m currently learning JavaScript, React, NodeJS.
 - ✨ Fun fact: I love Sailor Moon, Queen and cats.
