@@ -5,6 +5,8 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCFnY0rmT4-LOA2x02wPtJYA?style=social)](https://www.youtube.com/kuraitsukino)
 [![GitHub followers](https://img.shields.io/github/followers/kuraitsukino?style=social)](https://github.com/kuraitsukino)
 
+<img align='right' src="https://instagram.fmex5-1.fna.fbcdn.net/v/t51.2885-15/e35/50128947_1595740097196117_2638386725086925028_n.jpg?_nc_ht=instagram.fmex5-1.fna.fbcdn.net&amp;_nc_cat=109&amp;_nc_ohc=CF5V3oKWC_MAX9s9Fdu&amp;edm=AABBvjUBAAAA&amp;ccb=7-4&amp;oh=00_AT8JixRoQT34uatTYNpXui08cbSrt_-SFVggHW4Q3sCwIg&amp;oe=61DA062B&amp;_nc_sid=83d603" width="400">
+
 - 🔭 I’m currently working on learning a lot of stuff to be an excelent web developer.
 - 🌱 I’m currently learning JavaScript, React, NodeJS.
 - ✨ Fun fact: I love Sailor Moon, Queen and cats.
@@ -33,7 +35,7 @@
   
 ## 
   
-<div>
+<div style= "display: inline_block"><br>
   <img align="right" alt="Tsukino-pic" height="200" style="border-radius:50px;" src="https://instagram.fmex5-1.fna.fbcdn.net/v/t51.2885-15/e35/50128947_1595740097196117_2638386725086925028_n.jpg?_nc_ht=instagram.fmex5-1.fna.fbcdn.net&amp;_nc_cat=109&amp;_nc_ohc=CF5V3oKWC_MAX9s9Fdu&amp;edm=AABBvjUBAAAA&amp;ccb=7-4&amp;oh=00_AT8JixRoQT34uatTYNpXui08cbSrt_-SFVggHW4Q3sCwIg&amp;oe=61DA062B&amp;_nc_sid=83d603">
 </div>
 
