@@ -8,7 +8,7 @@
 <img align='right' src="/IMG_3991.JPG" width="370">
 
 - 🔭 I’m currently working on learning a lot of stuff to be an excelent web developer.
-- 🌱 I’m currently learning JavaScript, React, NodeJS, Java.
+- 🌱 I’m currently learning JavaScript, React, NodeJS, Java and Salesforce / Apex.
 - ✨ Fun fact: I love Sailor Moon, Queen and cats. I draw this Freddie's drawing.
 
 ##
