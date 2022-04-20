@@ -31,6 +31,8 @@
   <img align="center" alt="Tsukino-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tsukino-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tsukino-Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+  <img align="center" alt="Tsukino-Salesforce" height="40" width="50"
+  src="https://img.icons8.com/color/240/000000/salesforce.png" >
 </div>
   
 ## 
